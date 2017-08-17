@@ -1,0 +1,19 @@
+title = "Ridge Racer 3D"
+description = "Ridge Racer 3D is a racing video game for the Nintendo 3DS which is published and developed by Namco Bandai Games. First images of the game were leaked in early November 2010, and Namco confirmed that the video game was going to be released later on in 2011."
+needs_system_files = false
+needs_shared_font = false
+
+[[releases]]
+title = "0004000000035800"
+region = "usa"
+release_date = "2011-03-22"
+
+[[testcases]]
+title = "0004000000035800"
+compatibility = "2"
+date = "2017-08-17"
+version = "HEAD-21204ba"
+cpu = "Intel Core i5-4430"
+gpu = "GeForce GTX 960"
+os = "Windows 10 14393"
+author = "brothe2nd"
